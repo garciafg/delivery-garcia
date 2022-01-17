@@ -7,6 +7,10 @@ const Sabores = connect.define('tbl_sabores', {
         type: Sequelize.STRING,
         allowNull: false
     },
+    descricao: {
+        type: Sequelize.STRING,
+        allowNull: false
+    },
     tamanho_id: {
         type: Sequelize.INTEGER,
         allowNull: false
