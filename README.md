@@ -5,7 +5,6 @@
 # Sobre o projeto
 Em breve parte de checkout e área administrativa dos clientes.
 
-[Demostração online](https://fgdigitalweb.tk/garcias)
 
 ### Print 01
 ![Web 1](https://bigpedidos.tk/screens/food/food01.jpg)
